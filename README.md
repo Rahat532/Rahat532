@@ -6,9 +6,9 @@ I am a Computer Science and Engineering (CSE) student passionate about building 
 
  🛠️ Technologies & Tools
 
-- Frameworks & Libraries:** Django, Flutter, GLUT
-- Programming Languages:** Python, PHP, JavaScript, HTML, CSS
-- Domains of Interest:** Artificial Intelligence (AI), Machine Learning (ML), Web Development
+- Frameworks & Libraries: Django, Flutter, GLUT
+- Programming Languages: Python, PHP, JavaScript, HTML, CSS
+- Domains of Interest: Artificial Intelligence (AI), Machine Learning (ML), Web Development
 
  📫 Connect With Me
 
